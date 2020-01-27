@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libPointer2Numere.a  CMakeFiles/Pointer2Numere.dir/library.c.obj
+C:\MinGW\bin\ranlib.exe libPointer2Numere.a

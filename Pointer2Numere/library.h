@@ -1,0 +1,6 @@
+#ifndef POINTER2NUMERE_LIBRARY_H
+#define POINTER2NUMERE_LIBRARY_H
+
+void hello(void);
+
+#endif //POINTER2NUMERE_LIBRARY_H

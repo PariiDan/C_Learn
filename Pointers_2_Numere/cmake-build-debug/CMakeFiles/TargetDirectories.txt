@@ -1,0 +1,3 @@
+D:/@CLearnSpace/C_Learn/Pointers_2_Numere/cmake-build-debug/CMakeFiles/Pointers_2_Numere.dir
+D:/@CLearnSpace/C_Learn/Pointers_2_Numere/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/@CLearnSpace/C_Learn/Pointers_2_Numere/cmake-build-debug/CMakeFiles/rebuild_cache.dir

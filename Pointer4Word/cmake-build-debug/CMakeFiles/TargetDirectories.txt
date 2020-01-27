@@ -1,0 +1,3 @@
+D:/@CLearnSpace/C_Learn/Pointer4Word/cmake-build-debug/CMakeFiles/Pointer4Word.dir
+D:/@CLearnSpace/C_Learn/Pointer4Word/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/@CLearnSpace/C_Learn/Pointer4Word/cmake-build-debug/CMakeFiles/rebuild_cache.dir

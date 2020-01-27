@@ -1,0 +1,3 @@
+D:/@CLearnSpace/Exercitii/Binary_To_Decimal/cmake-build-debug/CMakeFiles/Binary_To_Decimal.dir
+D:/@CLearnSpace/Exercitii/Binary_To_Decimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/@CLearnSpace/Exercitii/Binary_To_Decimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

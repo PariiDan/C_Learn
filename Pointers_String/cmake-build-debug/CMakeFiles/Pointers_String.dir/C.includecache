@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/@CLearnSpace/Exercitii/Pointers_String/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/@CLearnSpace/Exercitii/Pointer2Numere/library.c
+library.h
+D:/@CLearnSpace/Exercitii/Pointer2Numere/library.h
+stdio.h
+-
+
+D:/@CLearnSpace/Exercitii/Pointer2Numere/library.h
+
