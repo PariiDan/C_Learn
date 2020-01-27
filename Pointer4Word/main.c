@@ -18,7 +18,6 @@ tips: 2 fors;*/
 #include <stdio.h>
 
 int main(){
-    puts("Hello ");
-    printf("World!");
+    puts("Hello!");
     return 0;
 }
