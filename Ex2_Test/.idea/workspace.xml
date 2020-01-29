@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Ex1_Test" targetName="Ex1_Test" />
+      <config projectName="Ex2_Test" targetName="Ex2_Test" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e95986-dad3-4bdf-8a0a-da02279ca6e1" name="Default Changelist" comment="" />
+    <list default="true" id="f6ee22db-76bb-4bcc-a1d6-eef9e6cc6a99" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,25 +21,11 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1WzNpbHx6Spl2LC8sLZ0SWVyKP8" />
+  <component name="ProjectId" id="1WznimAzS9ieT4FqWWtXnr3c9NC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -50,6 +36,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,7 +51,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Ex1_Test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ex1_Test" TARGET_NAME="Ex1_Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ex1_Test" RUN_TARGET_NAME="Ex1_Test">
+    <configuration name="Ex2_Test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ex2_Test" TARGET_NAME="Ex2_Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ex2_Test" RUN_TARGET_NAME="Ex2_Test">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -75,13 +62,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1e95986-dad3-4bdf-8a0a-da02279ca6e1" name="Default Changelist" comment="" />
-      <created>1580148646854</created>
+      <changelist id="f6ee22db-76bb-4bcc-a1d6-eef9e6cc6a99" name="Default Changelist" comment="" />
+      <created>1580161419072</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580148646854</updated>
-      <workItem from="1580148648481" duration="3672000" />
-      <workItem from="1580161568633" duration="597000" />
+      <updated>1580161419072</updated>
+      <workItem from="1580161422602" duration="1780000" />
+      <workItem from="1580248660630" duration="3120000" />
+      <workItem from="1580327023408" duration="916000" />
     </task>
     <servers />
   </component>
