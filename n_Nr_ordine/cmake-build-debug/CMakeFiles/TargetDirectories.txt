@@ -1,0 +1,3 @@
+D:/@CLearnSpace/C_Learn/n_Nr_ordine/cmake-build-debug/CMakeFiles/n_Nr_ordine.dir
+D:/@CLearnSpace/C_Learn/n_Nr_ordine/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/@CLearnSpace/C_Learn/n_Nr_ordine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
